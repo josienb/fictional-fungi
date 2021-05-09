@@ -1,9 +1,54 @@
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$backgroundColor: #eeeeee;
+$bodyColor: #2e2e2e;
+$darkPurple: #6F2DA8;
+$linkColor: #0000EE;
+$terminalBlack: black;
+$terminalGray: lightgrey;
+$visitedLinkColor: #575558;
 
 body {
-  background: $backgroundColor;
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 1.2em;
+  font-family: sans-serif;
   color: $bodyColor;
-  font-family: $bodyFont;
+  padding: 0 10px;
+}
+code {
+  font-family: Consolas,"courier new";
+  background-color: $terminalBlack;
+  color: $terminalGray;
+  padding: 2px;
+  font-size: 105%;
+}
+code::-moz-selection {
+  background-color: $terminalGray;
+  color: $terminalBlack;
+}
+code::selection {
+  background-color: $terminalGray;
+  color: $terminalBlack;
+}
+h1,h2,h3 {
+  line-height: 1.2;
+}
+hr.purple {
+  color: $darkPurple;
+  border-top: 3px solid $darkPurple;
+  border-radius: 5px;
+}
+hr.gray {
+  color: $visitedLinkColor;
+  border-top: 3px solid $visitedLinkColor;
+  border-radius: 5px;
+}
+a {
+  color: $linkColor;
+}
+a:visited {
+  color: $visitedLinkColor;
+}
+a:hover {
+  text-decoration: none;
 }
