@@ -17,8 +17,11 @@ layout: default
 <section>
 	<h1>📖 Books</h1>
 	<p>And also, I love to read. And to not forget what I have read. List needed!</p>
-	<ul>
-    <li><strong>Onstuimige start</strong> by Alison Roberts</li>
-    <li><strong>Mythos</strong> by Stephen Fry</li>
-	</ul>
+  <ul>
+    {% for book in site.data.books %}
+      <li>
+        <strong>{{ book.title }}</strong> by {{ book.author }} ({{ book.month }})</li>
+      </li>
+    {% endfor %}
+  </ul>
 </section>
