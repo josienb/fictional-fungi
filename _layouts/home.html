@@ -8,11 +8,12 @@ layout: default
 	<p>This place will keep me from having to search for everything <em>yet again</em>.</p>
 </section>
 <section>
-	<h1>👾 Posts</h1>
-	{% for post in site.posts %}
-	<a href="{{ post.url }}">{{ post.title }}</a> (<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %Y" }}</time>)
-	<br/>
-	{% endfor %}
+	<h1>👾 Interesting Posts</h1>
+  {% for link in site.data.links %}
+  <li>
+    <a href="{{ link.url }}">{{ link.title }}</a> by {{ link.author }}
+  </li>
+  {% endfor %}
 </section>
 
 {% include footer.html %}
