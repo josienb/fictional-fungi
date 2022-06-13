@@ -178,7 +178,7 @@
   month: September 2021
   firsttime: true
 
-- title: False Values
+- title: False Value
   author: Ben Aaronovitch
   month: August 2021
   firsttime: true
@@ -220,6 +220,11 @@
 
 - title: Piranesi
   author: Susanna Clarke
+  month: July 2021
+  firsttime: true
+
+- title: All Systems Red
+  author: Martha Wells
   month: July 2021
   firsttime: true
 
