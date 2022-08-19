@@ -11,18 +11,22 @@ layout: default
     <li><a href="https://github.com/josienb">GitHub</a></li>
     <li><a href="https://gitlab.com/josienb">GitLab</a></li>
     <li><a href="https://www.linkedin.com/in/josienbraas/en">LinkedIn</a></li>
-    <li><a href="https://stackoverflow.com/cv/josienb">Stack Overflow Careers</a></li>
+    <li><a href="https://stackoverflow.com/users/249353/josien">Stack Overflow</a></li>
   </ul>
   <p>There's no Twitter, Instagram or Facebook account.</p>
 </section>
 <section>
-	<h1>📖 Books</h1>
-	<p>And also, I love to read. And to not forget what I have read. List needed!</p>
-  <ul>
-    {% for book in site.data.books %}
+  <h1>📖 Books</h1>
+  <p>And also, I love to read. And to not forget what I have read. List needed! Check it out on <a
+      href="https://app.thestorygraph.com/books-read/josien">The StoryGraph</a> or open the list down here.</p>
+  <details>
+    <summary>Book List</summary>
+    <ul>
+      {% for book in site.data.books %}
       <li>
-        <strong>{{ book.title }}</strong> by {{ book.author }} ({{ book.month }})</li>
+        <strong>{{ book.title }}</strong> by {{ book.author }} ({{ book.month }})
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+  </details>
 </section>
