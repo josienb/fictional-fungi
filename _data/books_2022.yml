@@ -23,14 +23,14 @@
   month: August 2022
   firsttime: true
 
-- title: City of Light
-  author: Keri Arthur
-  month: July 2022
-  firsttime: true
-
 - title: Every Heart a Doorway
   author: Seanan McGuire
   month: August 2022
+  firsttime: true
+
+- title: City of Light
+  author: Keri Arthur
+  month: July 2022
   firsttime: true
 
 - title: Across the Green Grass Fields
