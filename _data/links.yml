@@ -1,3 +1,19 @@
 - title: How to Write a Git Commit Message
   author: cbeams
   url: https://cbea.ms/git-commit/
+
+- title: Atomic commits will help you git legit
+  author: Pauline Vos
+  url: https://www.pauline-vos.nl/atomic-commits/
+
+- title: Kill Your Dependencies
+  author: Mike Perham
+  url: https://www.mikeperham.com/2016/02/09/kill-your-dependencies/
+
+- title: How to Do Code Reviews Like a Human
+  author: Michael Lynch
+  url: https://mtlynch.io/human-code-reviews-1/
+
+- title: Maker's Schedule, Manager's Schedule
+  author: Paul Graham
+  url: http://www.paulgraham.com/makersschedule.html
