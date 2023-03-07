@@ -1,3 +1,48 @@
+- title: Tower
+  author: Bae Myung-hoon
+  month: December 2022
+  firsttime: true
+
+- title: Zakkenroller Eersteklas
+  author: Gabriel Avery
+  month: December 2022
+  firsttime: true
+
+- title: De IJzeren Prinses
+  author: Cassandra Clare
+  month: December 2022
+  firsttime: true
+
+- title: De IJzeren Prins
+  author: Cassandra Clare
+  month: December 2022
+  firsttime: true
+
+- title: Clockwork Angel
+  author: Cassandra Clare
+  month: December 2022
+  firsttime: true
+
+- title: The Golden Enclaves
+  author: Naomi Novik
+  month: December 2022
+  firsttime: true
+
+- title: Harrow the Ninth
+  author: Tamsyn Muir
+  month: December 2022
+  firsttime: false
+
+- title: Gideon the Ninth
+  author: Tamsyn Muir
+  month: December 2022
+  firsttime: false
+
+- title: Het geschenk van Donkerhol
+  author: Kieran Larwood
+  month: November 2022
+  firsttime: true
+
 - title: Irontown Blues
   author: John Varley
   month: November 2022
@@ -26,6 +71,11 @@
 - title: Truth of the Divine
   author: Lindsay Ellis
   month: October 2022
+  firsttime: true
+
+- title: Podkin Eenoor
+  author: Kieran Larwood
+  month: September 2022
   firsttime: true
 
 - title: The Ink Black Heart
