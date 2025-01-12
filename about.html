@@ -20,6 +20,16 @@ layout: default
   <p>And also, I love to read. And to not forget what I have read. List needed! Check it out on <a
       href="https://app.thestorygraph.com/books-read/josien">The StoryGraph</a> or open the lists down here.</p>
   <details>
+    <summary>Book List 2025</summary>
+    <ul>
+      {% for book in site.data.books_2025 %}
+      <li>
+        <strong>{{ book.title }}</strong> by {{ book.author }} ({{ book.month }})
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+  <details>
     <summary>Book List 2024 (41 new books)</summary>
     <ul>
       {% for book in site.data.books_2024 %}
