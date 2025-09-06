@@ -1,9 +1,294 @@
-- title: The Other Wind
+- title: "Silverborn: The Mystery of Morrigan Crow"
+  author: Jessica Townsend
+  month: September 2025
+  firsttime: true
+
+- title: "The Incandescent"
+  author: Emily Tesh
+  month: August 2025
+  firsttime: true
+
+- title: "Heavenly Tyrant"
+  author: Xiran Jay Zhao
+  month: August 2025
+  firsttime: true
+
+- title: "Iron Widow"
+  author: Xiran Jay Zhao
+  month: August 2025
+  firsttime: false
+
+- title: "Ring Shout"
+  author: P. Djèlí Clark
+  month: August 2025
+  firsttime: true
+
+- title: "The Empress of Salt and Fortune"
+  author: Nghi Vo
+  month: August 2025
+  firsttime: true
+
+- title: "So Let Them Burn"
+  author: Kamilah Cole
+  month: August 2025
+  firsttime: true
+
+- title: "Monster"
+  author: Naomi Kritzer
+  month: August 2025
+  firsttime: true
+
+- title: "Swordheart"
+  author: T. Kingfisher
+  month: August 2025
+  firsttime: true
+
+- title: "Metty Jones en de schedeltattoo"
+  author: Philippa Leathley
+  month: August 2025
+  firsttime: true
+
+- title: "A Drop of Corruption"
+  author: Robert Jackson Bennett
+  month: August 2025
+  firsttime: true
+
+- title: "Persuasion"
+  author: Jane Austen
+  month: August 2025
+  firsttime: false
+
+- title: "Het pad van de Roverkoning"
+  author: Tom Rijpert
+  month: July 2025
+  firsttime: true
+
+- title: "Ze noemen me Nee Sam!"
+  author: Drew Daywalt
+  month: July 2025
+  firsttime: true
+
+- title: "Come Tumbling Down"
+  author: Seanan McGuire
+  month: July 2025
+  firsttime: true
+
+- title: "Artificial Condition"
+  author: Martha Wells
+  month: July 2025
+  firsttime: false
+
+- title: "All Systems Red"
+  author: Martha Wells
+  month: July 2025
+  firsttime: false
+
+- title: "Paladin's Faith"
+  author: T. Kingfisher
+  month: July 2025
+  firsttime: true
+
+- title: "The Tusks of Extinction"
+  author: Ray Nayler
+  month: July 2025
+  firsttime: true
+
+- title: "Paladin's Hope"
+  author: T. Kingfisher
+  month: July 2025
+  firsttime: true
+
+- title: "Paladin's Strength"
+  author: T. Kingfisher
+  month: July 2025
+  firsttime: true
+
+- title: "Paladin's Grace"
+  author: T. Kingfisher
+  month: July 2025
+  firsttime: false
+
+- title: "Bookshops & Bonedust"
+  author: Travis Baldree
+  month: July 2025
+  firsttime: true
+
+- title: "The Tainted Cup"
+  author: Robert Jackson Bennett
+  month: July 2025
+  firsttime: true
+
+- title: "A Sorceress Comes to Call"
+  author: T. Kingfisher
+  month: June 2025
+  firsttime: true
+
+- title: "Someone You Can Build a Nest In"
+  author: John Wiswell
+  month: June 2025
+  firsttime: true
+
+- title: "Service Model"
+  author: Adrian Tchaikovsky
+  month: June 2025
+  firsttime: true
+
+- title: "The Feast Makers"
+  author: August Clarke
+  month: June 2025
+  firsttime: true
+
+- title: "The Practice, the Horizon, and the Chain"
+  author: Sofia Samatar
+  month: June 2025
+  firsttime: true
+
+- title: "The Butcher of the Forest"
+  author: Premee Mohamed
+  month: June 2025
+  firsttime: true
+
+- title: "Navigational Entanglements"
+  author: Aliette de Bodard
+  month: June 2025
+  firsttime: true
+
+- title: "The Brides of High Hill"
+  author: Nghi Vo
+  month: June 2025
+  firsttime: true
+
+- title: "Alien Clay"
+  author: Adrian Tchaikovsky
+  month: May 2025
+  firsttime: true
+
+- title: "What Feasts at Night"
+  author: T. Kingfisher
+  month: May 2025
+  firsttime: true
+
+- title: "Perhaps the Stars"
+  author: Ada Palmer
+  month: May 2025
+  firsttime: true
+
+- title: "Patricia"
+  author: Peter Terrin
+  month: May 2025
+  firsttime: true
+
+- title: "The Ministry of Time"
+  author: Kaliane Bradley
+  month: May 2025
+  firsttime: true
+
+- title: "Dief van de nacht"
+  author: Holly Black
+  month: April 2025
+  firsttime: true
+
+- title: "Harry Potter en de Relieken van de Dood"
+  author: J.K. Rowling
+  month: April 2025
+  firsttime: false
+
+- title: "Storm Front"
+  author: Jim Butcher
+  month: April 2025
+  firsttime: false
+
+- title: "Piranesi"
+  author: Susanna Clarke
+  month: April 2025
+  firsttime: false
+
+- title: "The Will to Battle"
+  author: Ada Palmer
+  month: April 2025
+  firsttime: true
+
+- title: "A Wizard's Guide to Defensive Baking"
+  author: T. Kingfisher
+  month: March 2025
+  firsttime: false
+
+- title: "The Last Wish"
+  author: Andrzej Sapkowski
+  month: March 2025
+  firsttime: true
+
+- title: "Spookpokken: De jacht op Morrigan Crow"
+  author: Jessica Townsend
+  month: March 2025
+  firsttime: true
+
+- title: "Emily Wilde's Compendium of Lost Tales"
+  author: Heather Fawcett
+  month: March 2025
+  firsttime: true
+
+- title: "Emily Wilde's Map of the Otherlands"
+  author: Heather Fawcett
+  month: February 2025
+  firsttime: false
+
+- title: "Emily Wilde's Encyclopaedia of Faeries"
+  author: Heather Fawcett
+  month: February 2025
+  firsttime: false
+
+- title: "The Book That Wouldn't Burn"
+  author: Mark Lawrence
+  month: February 2025
+  firsttime: true
+
+- title: "Wondersmid: de roeping van Morrigan Crow"
+  author: Jessica Townsend
+  month: February 2025
+  firsttime: true
+
+- title: "Nevermoor: Morrigan Crow en het Wondergenootschap"
+  author: Jessica Townsend
+  month: February 2025
+  firsttime: true
+
+- title: "The Moonlight Market"
+  author: Joanne Harris
+  month: February 2025
+  firsttime: true
+
+- title: "Seven Surrenders"
+  author: Ada Palmer
+  month: February 2025
+  firsttime: true
+
+- title: "Dreadful"
+  author: Caitlin Rozakis
+  month: February 2025
+  firsttime: true
+
+- title: "Too Like the Lightning"
+  author: Ada Palmer
+  month: January 2025
+  firsttime: false
+
+- title: "The Daughters of Izdihar"
+  author: Hadeer Elsbai
+  month: January 2025
+  firsttime: true
+
+- title: "The Casual Vacancy"
+  author: J.K. Rowling
+  month: January 2025
+  firsttime: true
+
+- title: "The Other Wind"
   author: Ursula K. Le Guin
   month: January 2025
   firsttime: true
 
-- title: Nimmernacht
+- title: "Nimmernacht"
   author: Jay Kristoff
   month: January 2025
   firsttime: true
